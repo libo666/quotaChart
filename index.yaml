@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  quota:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2022-04-06T13:34:28.095817483+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 89f9767faa622f6e582b4c4c46da86008e43788e15882379fa9bdb0e250d5c57
+    name: quota
+    urls:
+    - https://github.com/libo666/quotaChart/quota-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-04-06T13:34:28.095247211+08:00"
